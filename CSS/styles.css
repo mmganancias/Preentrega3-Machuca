@@ -4,7 +4,6 @@
     box-sizing: content-box;
     font-family: 'Comfortaa', cursive;
 }
-
 footer {
     display: flex;
     justify-content: left;

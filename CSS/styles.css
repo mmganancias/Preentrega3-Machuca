@@ -1,15 +1,2 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: content-box;
-    font-family: 'Comfortaa', cursive;
-}
-footer {
-    display: flex;
-    justify-content: left;
-}
 
-.clearfix {
-    padding: 100px;
-}
 

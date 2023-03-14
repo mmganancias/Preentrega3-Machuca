@@ -10,4 +10,12 @@ footer {
   justify-content: left;
 }
 
+.container-fluid {
+  color: #733FC8;
+}
+
+button {
+  color: #733FC8;
+}
+
 /*# sourceMappingURL=style.css.map */

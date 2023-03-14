@@ -9,3 +9,14 @@ footer {
     display: flex;
     justify-content: left;
 }
+
+$primary-color:#733FC8;
+$font-color: #2C2A2E;
+
+.container-fluid{
+    color: $primary-color;
+}
+
+button {
+    color: $primary-color;
+}
